@@ -1,0 +1,22 @@
+{
+  "name": "agentic-testing",
+  "version": "1.0.0",
+  "description": "Project init\r npm init playwright@latest",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan12patil/Agentic-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohan12patil/Agentic-Testing/issues"
+  },
+  "homepage": "https://github.com/rohan12patil/Agentic-Testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  }
+}
